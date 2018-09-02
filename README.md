@@ -1,2 +1,4 @@
 # renew
-view
+
+Hi!I'm Katelynn.
+Looking forward to beginning a journey.
